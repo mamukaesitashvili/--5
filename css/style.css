@@ -1,0 +1,68 @@
+.green-box{
+	background-color: #22B573;
+}
+.inline-block{
+	display: inline-block;
+}
+.float-right{
+	float: right;
+}
+.float-left{
+	float: left;
+}
+.contact{
+	margin-right: 61px;
+}
+.logo img{
+	width: 201px;
+	height: 149px;
+}
+.clear{
+	clear: both;
+}
+.header{
+	padding: 46px 44px 0 0;
+}
+.nav-a{
+	text-transform: uppercase;
+	font-size:48px;
+	color: white;
+	margin-right:44px;
+}
+.yellow-box{
+	width: 617px;
+	background-color: #FCEE21;
+	padding:26px;
+	height: 500px;
+}
+.yellow-box p{
+	font-size: 14px;
+	color: green;
+	line-height: 18px;
+	text-transform: uppercase;
+}
+.yellow-p{
+	margin-top:21px;
+}
+.yellow-size{
+	width: 523px;
+}
+.yeelow-image{
+	margin-left:27px;
+}
+.yellow-image2{
+	margin-right:27px;
+}
+.main-wraper{
+	padding-top:63px;
+	padding-bottom: 80px;
+}
+.main-wraper::after{
+	content: '';
+	clear: both;
+	display: block;
+}
+.container{
+	width: 1158px;
+	margin: 0 auto;
+}
